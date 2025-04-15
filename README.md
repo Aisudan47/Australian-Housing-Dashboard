@@ -57,7 +57,7 @@ Built using real datasets, custom DAX measures, and advanced Power BI visuals, t
 | 🌐 Geo Maps & Heatmaps     | Compare prices using Australia map visual with gradient formatting            |
 | 🎨 Clean UX Design          | Dark theme, visual consistency, user-friendly layout                            |
 
-
+---
 ## 🛠 Tools & Technologies Used
 
 | 🛠 Tool / Platform | 📌 Role & Purpose                                         |
@@ -81,7 +81,7 @@ Australian-Housing-Dashboard/
 │   └── housing_dashboard_preview.png     # Screenshot of the dashboard
 └── README.md                             # Project documentation (this file)
 ```
-
+---
 ## 🖼️ Dashboard Preview
 Here’s a snapshot of the dashboard:
 
@@ -120,14 +120,15 @@ Use the slicers to filter by:
 ---
 ## 📊 Key Metrics & Logic
 
-📐 Metric Name	🔍 Description
-📈 Avg Property Price	Calculated using DAX from quarterly figures
-🗓️ YoY Growth (%)	Price % change from same quarter in previous year
-🌟 Affordability Tier	Categorized into High, Medium, Low tiers by relative pricing
-🧭 Regional Ranking	Ranking of regions based on average price
-🔄 Interlinked Filters	All visuals dynamically respond to user selections
-—
+| 📐 Metric Name        | 🔍 Description                                                      |
+|-----------------------|----------------------------------------------------------------------|
+| 📈 Avg Property Price | Calculated using DAX from quarterly figures                         |
+| 🗓️ YoY Growth (%)    | Price % change from same quarter in previous year                    |
+| 🌟 Affordability Tier | Categorized into High, Medium, Low tiers by relative pricing        |
+| 🧭 Regional Ranking    | Ranking of regions based on average price                           |
+| 🔄 Interlinked Filters | All visuals dynamically respond to user selections                   |
 
+---
 ## 📚 Learning Outcomes
 ✅ How to clean, transform, and model housing datasets <br>
 ✅ Apply powerful DAX measures for YoY growth, tiers, and ranks<br>
