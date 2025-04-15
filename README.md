@@ -47,26 +47,28 @@ Built using real datasets, custom DAX measures, and advanced Power BI visuals, t
 ---
 ## 📈 Dashboard Features
 
-🔧 Feature	📋 Description
-📊 Interactive Visuals	Filters, slicers, maps, line charts for intuitive data exploration
-📍 State & City Segmentation	Compare price movements by geography
-📆 Time-Series Trendlines	View changes from 2010 to 2022
-💰 Affordability Analysis	Regions categorized into High, Medium, Low price tiers
-🏘️ Dwelling Type Breakdown	Filter by dwelling type: House, Apartment, Unit, etc.
-🌐 Geo Maps & Heatmaps	Compare prices using Australia map visual with gradient formatting
-🎨 Clean UX Design	Dark theme, visual consistency, user-friendly layout
+| 🔧 Feature                  | 📋 Description                                                                 |
+|---------------------------|---------------------------------------------------------------------------------|
+| 📊 Interactive Visuals     | Filters, slicers, maps, line charts for intuitive data exploration             |
+| 📍 State & City Segmentation | Compare price movements by geography                                            |
+| 📆 Time-Series Trendlines   | View changes from 2010 to 2022                                                  |
+| 💰 Affordability Analysis   | Regions categorized into High, Medium, Low price tiers                           |
+| 🏘️ Dwelling Type Breakdown | Filter by dwelling type: House, Apartment, Unit, etc.                         |
+| 🌐 Geo Maps & Heatmaps     | Compare prices using Australia map visual with gradient formatting            |
+| 🎨 Clean UX Design          | Dark theme, visual consistency, user-friendly layout                            |
 —
 
 🛠 Tools & Technologies Used
 
-🛠 Tool / Platform	📌 Role & Purpose
-🔷 Power BI Desktop	Dashboard creation, DAX modeling, UI design
-💡 DAX Measures	Custom calculations: average prices, YoY %, rankings
-🧹 Power Query	Data transformation, filtering, and reshaping
-📊 Excel	Housing dataset: quarterly prices by state/city/dwelling type
-🎨 Dark UI Design	Consistent design language and slicer formatting for professionalism
-—
+| 🛠 Tool / Platform | 📌 Role & Purpose                                         |
+|-------------------|----------------------------------------------------------|
+| 🔷 Power BI Desktop | Dashboard creation, DAX modeling, UI design              |
+| 💡 DAX Measures    | Custom calculations: average prices, YoY %, rankings     |
+| 🧹 Power Query     | Data transformation, filtering, and reshaping           |
+| 📊 Excel           | Housing dataset: quarterly prices by state/city/dwelling type |
+| 🎨 Dark UI Design  | Consistent design language and slicer formatting for professionalism |
 
+---
 ## 📁 Project Structure
 ```bash
 
@@ -83,15 +85,13 @@ Australian-Housing-Dashboard/
 ## 🖼️ Dashboard Preview
 Here’s a snapshot of the dashboard:
 
-📍 Australian map visuals
-📈 Time-series price trends
-💰 KPI Cards for affordability tiers
-🎚 Slicers for year, region, and dwelling type
-
+📍 Australian map visuals<br>
+📈 Time-series price trends<br>
+💰 KPI Cards for affordability tiers<br>
+🎚 Slicers for year, region, and dwelling type<br>
 👉
 
-—
-
+---
 ## 🚀 How to Use This Dashboard
 1. **Clone this repository:**
 
