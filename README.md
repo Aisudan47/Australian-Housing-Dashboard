@@ -58,7 +58,7 @@ Built using real datasets, custom DAX measures, and advanced Power BI visuals, t
 | 🎨 Clean UX Design          | Dark theme, visual consistency, user-friendly layout                            |
 
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
 | 🛠 Tool / Platform | 📌 Role & Purpose                                         |
 |-------------------|----------------------------------------------------------|
