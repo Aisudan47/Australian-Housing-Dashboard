@@ -56,7 +56,7 @@ Built using real datasets, custom DAX measures, and advanced Power BI visuals, t
 | 🏘️ Dwelling Type Breakdown | Filter by dwelling type: House, Apartment, Unit, etc.                         |
 | 🌐 Geo Maps & Heatmaps     | Compare prices using Australia map visual with gradient formatting            |
 | 🎨 Clean UX Design          | Dark theme, visual consistency, user-friendly layout                            |
-—
+
 
 🛠 Tools & Technologies Used
 
