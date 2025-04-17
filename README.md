@@ -87,17 +87,17 @@ Australian-Housing-Dashboard/
 ### Here’s a snapshot of the dashboard:
 
 
- - ### Australian Housing Dashboard
+  ### 1. Australian Housing Dashboard
 <img src="australian housing dashboard.png" alt="Alt text">
 
 
 - #### **Australian Housing Dashboard Data**
 <img src="australian housing dashboard data.png" alt="Alt text">
 
-- ####  **1&2**
-<img src="Excel_Essential 1&2.png" alt="Alt text">
+- ####  **Australian Housing Dashboard Pivot Table**
+<img src="australian housing dashboard pivot table.png" alt="Alt text">
 
-- #### **3&4**
+ ### 2. 
 <img src="3&4.png" alt="Alt text">
 
 - #### **5**
