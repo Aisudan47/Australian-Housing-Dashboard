@@ -83,13 +83,73 @@ Australian-Housing-Dashboard/
 ```
 ---
 ## 🖼️ Dashboard Preview
-Here’s a snapshot of the dashboard:
 
-📍 Australian map visuals<br>
-📈 Time-series price trends<br>
-💰 KPI Cards for affordability tiers<br>
-🎚 Slicers for year, region, and dwelling type<br>
-👉
+### Here’s a snapshot of the dashboard:
+
+
+ - ### Australian Housing Dashboard
+<img src="australian housing dashboard.png" alt="Alt text">
+
+
+- #### **Australian Housing Dashboard Data**
+<img src="australian housing dashboard data.png" alt="Alt text">
+
+- ####  **1&2**
+<img src="Excel_Essential 1&2.png" alt="Alt text">
+
+- #### **3&4**
+<img src="3&4.png" alt="Alt text">
+
+- #### **5**
+<img src="5.png" alt="Alt text">
+
+- #### **6&7**
+<img src="6 & 7.png" alt="Alt text">
+
+- #### **8&9**
+<img src="8 & 9.png" alt="Alt text">
+
+- #### **9**
+<img src="9.png" alt="Alt text">
+
+- #### **10**
+<img src="10.png" alt="Alt text">
+
+- ####  **11**
+<img src="11.png" alt="Alt text">
+
+- #### **12**
+<img src="12.png" alt="Alt text">
+
+- #### **13**
+<img src="13.png" alt="Alt text">
+
+- #### **14&15**
+<img src="14 & 15.png" alt="Alt text">
+
+
+##
+ ### 2. Pivot Charts and Tables
+##
+
+- ### Pivot Data
+<img src="Pivot Data.png" alt="Alt text">
+
+- ###  Pivot Tables
+<img src="Pivot charts and data.png" alt="Alt text">
+
+-  ### Pivot Tables According to Geography
+<img src="Pivot Data and Charts According to Geography.png" alt="Alt text">
+
+##
+ ### 3. Cleaned Recent Sales Data from Web
+##
+
+-  ### Recent Sales Data of Auburn 
+<img src="recent sales data for Auburn from web.png" alt="Alt text">
+
+- ### Recent Sales Data of Burwood 
+<img src="recent sales data for Burwood from web.png" alt="Alt text">
 
 ---
 ## 🚀 How to Use This Dashboard
