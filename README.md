@@ -106,12 +106,24 @@ Australian-Housing-Dashboard/
 <img src="Cleaned Burwood data from web.png" alt="Alt text">
 
 ### 3. Basic Statistics
- 
- - #### Cleaned Auburn data from web
-<img src="Cleaned Auburn data from web.png" alt="Alt text">
+  - #### Mean, Median, Mode
+<img src="Mean, Median, Mode.png" alt="Alt text">
 
-- #### Cleaned Burwood data from web
-<img src="Cleaned Burwood data from web.png" alt="Alt text">
+- #### Variance & Standard Deviation
+<img src="Variance & Standard Deviation.png" alt="Alt text">
+ 
+ - #### Correlation
+<img src="Correlation.png" alt="Alt text">
+
+- #### Regression
+<img src="Regression.png" alt="Alt text">
+
+ - #### Outlier Detection
+<img src="Outlier Detection.png" alt="Alt text">
+
+- #### Z-scores
+<img src="Z-scores.png" alt="Alt text">
+
 
 
 ---
